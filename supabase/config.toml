@@ -1,0 +1,4 @@
+project_id = "znfguvmzqeurtuotpksz"
+
+[functions.generate-learning-map]
+verify_jwt = false
